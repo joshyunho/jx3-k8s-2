@@ -45,7 +45,7 @@ data:
         repos:
         - joshyunho/jx3-k8s-2
         - joshyunho/golang-test
-      target_url: http://lighthouse-jx.207.192.68.60.nip.io/merge/status
+      target_url: http://lighthouse-jx.207.192.68.160.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null

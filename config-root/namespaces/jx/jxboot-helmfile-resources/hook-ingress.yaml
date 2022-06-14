@@ -20,4 +20,4 @@ spec:
                 port:
                   number: 80
             path: "/hook"
-      host: hook-jx.207.192.68.60.nip.io
+      host: hook-jx.207.192.68.160.nip.io
