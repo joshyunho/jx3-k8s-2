@@ -15,6 +15,9 @@ spec:
     gitServer: https://github.com
     provider: kubernetes
     registry: ghcr.io
+  storage:
+  - name: linode-test
+    url: s3://jenkins-x-test
   environments:
   - key: dev
     owner: joshyunho
