@@ -33,5 +33,8 @@ spec:
     username: joshyunho
   repository: bucketrepo
   secretStorage: local
+  storage:
+    name: linode-test
+    url: s3://jenkins-x-test
   vault: {}
   webhook: lighthouse
